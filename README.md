@@ -1,8 +1,7 @@
 # Proyecto_ASIR2_ManuelDominguez
 
-**Diseño de Infraestructura Empresarial Segura y Automatizada
+**Diseño de Infraestructura Empresarial Segura y Automatizada**
 
-![Estado del proyecto](https://img.shields.io/badge/estado-en%20progreso-yellow)
 ![Redes](https://img.shields.io/badge/Redes-SRI-blue)
 ![Sistemas Operativos](https://img.shields.io/badge/SO-ASO-orange)
 ![Servicios y Automatización](https://img.shields.io/badge/SAD%20%2F%20IAW-lightblue)
