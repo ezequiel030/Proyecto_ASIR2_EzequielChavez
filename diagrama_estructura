@@ -4,6 +4,7 @@ Este repositorio tiene la siguiente estructura:
 
 ![Diagrama general de la estructura](diagrama.png)
 
+
 ## Descripción de carpetas y archivos
 
 - **README.md**: Índice general del proyecto con enlaces directos a cada `UDx.md`.
