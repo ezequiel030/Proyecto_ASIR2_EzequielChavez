@@ -39,4 +39,3 @@
 - [Documentos de la unidad](./documentos/)
 - [Diagramas e imágenes](./img/)
 
-  [Volver al índice general](../README.md)
