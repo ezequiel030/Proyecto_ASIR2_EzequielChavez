@@ -39,3 +39,8 @@
 - [Documentos de la unidad](./documentos/)
 - [Diagramas e imágenes](./img/)
 
+  ## Bibliografía / Webgrafía 
+- Autor1, Título del libro o artículo, Editorial/Año.
+- Sitio web oficial: [Enlace](https://www.ejemplo.com)
+- Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
+
