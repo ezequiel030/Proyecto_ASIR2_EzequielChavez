@@ -1,5 +1,6 @@
 # Proyecto_ASIR2_ManuelDominguez
 ** Diseño de Infraestructura Empresarial Segura y Automatizada
+Idea central: cada alumno/a plantea una empresa concreta (real o simulada) y desarrolla un proyecto técnico que diseñe, planifique y justifique una infraestructura de red segura, automatizada y escalable, aplicando los conocimientos de los módulos de ASIR (SRI, ASO, SAD, SGBD, IAW, IPE-2 e INGLÉS).
 
 ![Estado del proyecto](https://img.shields.io/badge/estado-en%20progreso-yellow)
 ![Redes](https://img.shields.io/badge/Redes-SRI-blue)
@@ -9,20 +10,6 @@
 ![Seguridad](https://img.shields.io/badge/Seguridad-IPE-2-red)
 ![Inglés Técnico](https://img.shields.io/badge/Inglés-INGLÉS-yellow)
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
-
-## Nombre del alumno:
-Manuel Domínguez
-
-## Título del proyecto:
-Diseño de Infraestructura Empresarial Segura y Automatizada
-
-
-## Nombre del alumno:
-Manuel Domínguez
-
-## Título del proyecto:
-Diseño de Infraestructura Empresarial Segura y Automatizada
-
 
 ## Nombre del alumno:
 ## Título del proyecto:
