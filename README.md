@@ -1,10 +1,21 @@
 # Proyecto_ASIR2_ManuelDominguez
-**Diseño de Infraestructura Empresarial Segura y Automatizada
+** Diseño de Infraestructura Empresarial Segura y Automatizada
 
 ![Estado del proyecto](https://img.shields.io/badge/estado-en%20progreso-yellow)
-![Asignatura](https://img.shields.io/badge/asignatura-ASIR%202º-blue)
-![Licencia](https://img.shields.io/badge/licencia-MIT-green)
-![Lenguaje principal](https://img.shields.io/badge/tecnología-Virtualización%20y%20Redes-blueviolet)
+![Redes](https://img.shields.io/badge/Redes-SRI-blue)
+![Sistemas Operativos](https://img.shields.io/badge/SO-ASO-orange)
+![Servicios y Automatización](https://img.shields.io/badge/SAD%20%2F%20IAW-lightblue)
+![Bases de datos](https://img.shields.io/badge/SGBD-MySQL%20%2F%20PostgreSQL-green)
+![Seguridad](https://img.shields.io/badge/Seguridad-IPE-2-red)
+![Inglés Técnico](https://img.shields.io/badge/Inglés-INGLÉS-yellow)
+![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
+
+## Nombre del alumno:
+Manuel Domínguez
+
+## Título del proyecto:
+Diseño de Infraestructura Empresarial Segura y Automatizada
+
 
 ## Nombre del alumno:
 Manuel Domínguez
