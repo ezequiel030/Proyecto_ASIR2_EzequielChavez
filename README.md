@@ -1,5 +1,17 @@
 # Proyecto_ASIR2_ManuelDominguez
+**Diseño de Infraestructura Empresarial Segura y Automatizada
+
+![Estado del proyecto](https://img.shields.io/badge/estado-en%20progreso-yellow)
+![Asignatura](https://img.shields.io/badge/asignatura-ASIR%202º-blue)
+![Licencia](https://img.shields.io/badge/licencia-MIT-green)
+![Lenguaje principal](https://img.shields.io/badge/tecnología-Virtualización%20y%20Redes-blueviolet)
+
+## Nombre del alumno:
+Manuel Domínguez
+
+## Título del proyecto:
 Diseño de Infraestructura Empresarial Segura y Automatizada
+
 
 ## Nombre del alumno:
 ## Título del proyecto:
