@@ -1,6 +1,9 @@
 # Proyecto_ASIR2_ManuelDominguez
 Diseño de Infraestructura Empresarial Segura y Automatizada
 
+## Nombre del alumno:
+## Título del proyecto:
+
 ## Índice del proyecto
 
 ### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1)
@@ -56,7 +59,3 @@ Diseño de Infraestructura Empresarial Segura y Automatizada
 5. Defensa del proyecto  
 
 ---
-
-> Este README sirve como **mapa de navegación del proyecto**.  
-> Cada sección debe contener los documentos, diagramas y entregables correspondientes a cada unidad.  
-> Mantener la estructura de carpetas y los enlaces relativos facilita la revisión y evaluación del proyecto.
