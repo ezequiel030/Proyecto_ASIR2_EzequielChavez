@@ -1,12 +1,12 @@
 # Proyecto_ASIR2_ManuelDominguez
 Diseño de Infraestructura Empresarial Segura y Automatizada
 
-## Nombre del alumno:
-## Título del proyecto:
+## Nombre del alumno: Pon tu nombre
+## Título del proyecto: Título de tu proyecto
 
 ## Índice del proyecto
 
-### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/UD1.md)
+### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./ud1/ud1.md)
 1. Análisis del sector tecnológico  
    - Estudio del sector TIC y tendencias actuales  
    - Clasificación y tipología de empresas  
@@ -33,7 +33,7 @@ Diseño de Infraestructura Empresarial Segura y Automatizada
 
 ---
 
-### [UD2 – Diseño técnico de la infraestructura empresarial segura y automatizada](./UD2/UD2.md)
+### [UD2 – Diseño técnico de la infraestructura empresarial segura y automatizada](./ud2/ud2.md)
 1. Recopilación de información técnica  
 2. Diseño lógico y físico de la infraestructura  
 3. Definición de objetivos y fases del proyecto  
@@ -42,19 +42,7 @@ Diseño de Infraestructura Empresarial Segura y Automatizada
 
 ---
 
-### [UD3 – Planificación y ejecución del proyecto técnico](./UD3/UD3.md)
+### [UD3 – Planificación y ejecución del proyecto técnico](./ud3/ud3.md)
 1. Planificación de actividades  
 2. Gestión de recursos y logística  
-3. Procedimientos de ejecución  
-4. Gestión de riesgos y seguridad  
-5. Valoración económica y control de costes  
-
----
-
-### [UD4 – Control, evaluación y defensa del proyecto](./UD4/UD4.md)
-1. Procedimientos de seguimiento  
-2. Gestión de incidencias y cambios  
-3. Evaluación del proyecto  
-4. Documentación de cierre  
-5. Defensa del proyecto  
-
+3. Pro
