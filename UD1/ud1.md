@@ -33,10 +33,10 @@
   - [ ] Recursos y cronograma preliminar
   - [ ] Estructura y presentación del guion inicial
 
-[Volver al índice general](../README.md)
-
 
 ## Enlaces a recursos de la unidad
 
 - [Documentos de la unidad](./documentos/)
 - [Diagramas e imágenes](./img/)
+
+  [Volver al índice general](../README.md)
