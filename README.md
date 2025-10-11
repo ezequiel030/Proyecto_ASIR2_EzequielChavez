@@ -1,3 +1,5 @@
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=mftienda.Proyecto_ASIR2_ManuelDominguez)
+
 # Proyecto_ASIR2_ManuelDominguez
 
 **Diseño de Infraestructura Empresarial Segura y Automatizada**
