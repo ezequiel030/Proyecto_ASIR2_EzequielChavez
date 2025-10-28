@@ -9,8 +9,7 @@
 ![Seguridad](https://img.shields.io/badge/Seguridad-IPE2-red)
 ![Inglés Técnico](https://img.shields.io/badge/Inglés-INGLÉS-yellow)
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
-![ODS](https://img.shields.io/badge/ODS-13_Acción_por_el_Clima-brightgreen)
-![Sostenibilidad](https://img.shields.io/badge/Sostenibilidad-TICs_y_Medio_Ambiente-4CAF50)
+
 
 ## Nombre del alumno:
 ## Título del proyecto:
