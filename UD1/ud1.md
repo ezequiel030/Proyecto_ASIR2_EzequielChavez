@@ -5,6 +5,21 @@
 ## Índice de apartados
 
 - [ ] **1. Análisis del sector tecnológico**
+
+Quiero empezar mencionando que analizaremos el mercado del sector deportivo y del bienestar, en el que cada día 
+va evolucionando hacia la gestión digital.
+
+Hoy en día los gimnasios modernos utilizan software de gestión integral, para llevar el control de los socios,
+los pagos mensuales, y el flujo del gimnasio, todo esto para mejorar el rendimiento del gimnasio, automatizar
+trabajo que haria una persona, evitando así el error humano.
+
+Como también, la ciberseguridad y la protección de datos personales, porque incluyen datos de la salud del usuario,
+los pagos, y la biometria de la persona.
+
+El gimnasio Fitness Sport Hildalgo se esta quedando atras en el avanzado mundo de la gestión eficiente, necesita mejorar
+su infraestructura tecnologica para ofrecer un servicio más comodo, seguro, y eficiente.
+
+
 - [ ] **2. Selección de la empresa o contexto de trabajo**
 - [ ] **3. Identificación de necesidades tecnológicas**
 - [ ] **4. Oportunidades y viabilidad del proyecto**
