@@ -1,4 +1,4 @@
-# Proyecto_ASIR2_ManuelDominguez
+# Proyecto ASIR2 Ezequiel Chávez
 
 **Diseño de Infraestructura Empresarial Segura y Automatizada**
 
