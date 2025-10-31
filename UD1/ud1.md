@@ -36,5 +36,6 @@ su infraestructura tecnologica para ofrecer un servicio más comodo, seguro, y e
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
 - Sitios web del análisis del sector tecnológico:
   1.[SPnet](https://softwarepara.net/gimnasios/) 
+
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
 
