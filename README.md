@@ -1,4 +1,4 @@
-# Proyecto ASIR2 Ezequiel Chávez
+# Proyecto_ASIR2_ManuelDominguez
 
 **Diseño de Infraestructura Empresarial Segura y Automatizada**
 
@@ -11,7 +11,8 @@
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 
-## Nombre del alumno:
+## Nombre del alumno: Ezequiel Enrique Chávez Ascencio
+
 ## Título del proyecto:
 
 ## Índice del proyecto
