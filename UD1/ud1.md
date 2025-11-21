@@ -7,6 +7,7 @@
 - [ ] **1. Análisis del sector tecnológico**
 
 - [ ] **2. Selección de la empresa o contexto de trabajo**
+
 Hoy en día los gimnasios modernos utilizan software de gestión integral, para llevar el control de los socios,
 los pagos mensuales, y el flujo del gimnasio, todo esto para mejorar el rendimiento del gimnasio, automatizar
 trabajo que haria una persona, evitando así el error humano.
