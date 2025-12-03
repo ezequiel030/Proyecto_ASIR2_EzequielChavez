@@ -33,6 +33,7 @@ su infraestructura tecnologica para ofrecer un servicio más comodo, seguro, y e
 - Sitios web del análisis del sector tecnológico:
   
   1.[SPnet](https://softwarepara.net/gimnasios/)
+  
   2.[El economista](https://empresite.eleconomista.es/Actividad/EMPRESAS-TECNOLOGICAS/provincia/SEVILLA/) 
 
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
