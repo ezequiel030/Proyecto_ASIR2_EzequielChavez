@@ -38,24 +38,30 @@ La inversión estimada en pyme es de unos 2.450€ inicial, esto incluiria el se
 
 - [ ] **5. Obligaciones legales y normativas**
 
-✅ RGPD / LOPDGDD
+#### RGPD / LOPDGDD
+
 Protección datos socios (DNI, salud, pagos): registro tratamientos, consentimiento explícito, encriptación, backups seguros, notificación brechas AEPD (72h).​
 
-✅ Prevención Riesgos Laborales (PRL)
+#### Prevención Riesgos Laborales (PRL)
+
 Formación obligatoria personal: uso seguro sistemas, ergonomía equipos, protocolos ciberseguridad.
 
-✅ Licencias software
+#### Licencias software
+
 100% open source (Ubuntu Server, pfSense): cero costes licencias, cumplimiento legal total.
 
-✅ Obligaciones fiscales
+#### Obligaciones fiscales
+
 Facturación hardware/software (IVA 21%), deducciones inversiones informáticas Agencia Tributaria.
 
 - [ ] **6. Guion inicial del proyecto**
 
-Nombre del proyecto
-"FitTech Hidalgo: Innovación Digital para el Fitness Local"
+### Nombre del proyecto
 
-Datos de la empresa
+"FitTech Hidalgo"
+
+### Datos de la empresa
+
 Fitness Sport Hidalgo: Gimnasio tradicional en Coria del Río (Sevilla). Estructura: Dirección (Juan Hidalgo), 2 administrativos, 8 monitores, operaciones y marketing. Gestión manual (Excel, llaves físicas).
 
 Análisis del sector
