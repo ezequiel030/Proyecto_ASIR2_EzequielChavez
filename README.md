@@ -13,7 +13,9 @@
 
 ## Nombre del alumno: Ezequiel Enrique Chávez Ascencio
 
-## Título del proyecto:
+## Título del proyecto: FitTech Sport Hidalgo
+
+![FitTech](img/)
 
 ## Índice del proyecto
 
