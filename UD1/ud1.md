@@ -4,7 +4,7 @@
 
 ## Índice de apartados
 
-## 1. Análisis del sector tecnológico
+## **1. Análisis del sector tecnológico**
 
 Si hablamos del sector tecnológico en Sevilla, podemos decir que vive un momento de pura expansión y se ha convertido en uno de los principales motores económicos de la ciudad, con un crecimiento destacado del número de empresas y del empleo TIC en los últimos años.​
 
@@ -14,7 +14,7 @@ Además, Sevilla ha superado recientemente a Málaga en número de empresas tecn
 
 ![Gráfica](img/grafico_Tic.png)
 
-## 2. Selección de la empresa o contexto de trabajo
+## **2. Selección de la empresa o contexto de trabajo**
 
 Fitness Sport Hidalgo es un gimnasio tradicional en Coria del Río de la provincia de Sevilla, es dirigido por Juan Hidalgo, el cual es nutricionista con más de 30 años de experiencia en el fitness.​
 
@@ -22,13 +22,13 @@ Su estructura es simple y jerárquica, el señor Juan Hidalgo es quien se emcarg
 
 La informática actual es mínima, cuentan con dos PC Windows 10 obsoleto, WiFi básico y cero backups o red segura, camaras de seguridad, pero poco más. Esto nos lleva al siguiente punto.
 
-## 3. Identificación de necesidades tecnológicas
+## **3. Identificación de necesidades tecnológicas**
 
 Fitness Sport Hidalgo cuenta con una infraestructura obsoleta que frena su crecimiento, no cuenta con copias de seguridad automatizadas, red sin segmentación, cuenta solo con dos PC que están desactualizados, procesos manuales de inscripción y pagos, no cuentan con seguridad de acceso al gimnasio.
 
 Este proyecto buscará transformar estas carencias mediante servidor de dominio centralizado para la gestión de usuarios, sistema de backups automatizados con almacenamiento híbrido, una red LAN/WiFi segmentada con firewall perimetral, una plataforma en la nube para la gestión de reservas y un control de acceso digital IDQR (control de acceso por código QR).
 
-## 4. Oportunidades y viabilidad del proyecto
+## **4. Oportunidades y viabilidad del proyecto**
 
 La transformación digital del centro deportivo Fitness Sport Hidalgo es una gran oportunidad para continuar desarrollandose como empresa, pasar de ser un gimnasio tradicional, a centro fitness inteligente, con soluciones como un servidor dedicado para la gestión de usuarios centralizados, los backups, también poder tener la red empresarial LAN/WiFi segementada, la plataforma en la nube para las reservas y accesos por código QR por movil, eliminando las carencias actuales.
 
