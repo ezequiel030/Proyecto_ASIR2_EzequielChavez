@@ -83,8 +83,11 @@ Servidor dedicado (dominio+backups híbridos), red LAN/WiFi segmentada+firewall,
 ### Obligaciones legales
 
 ✅ RGPD/LOPDGDD: Datos socios protegidos.
+
 ✅ PRL: Formación personal ciberseguridad.
+
 ✅ Licencias: Open source legal.
+
 ✅ Fiscal: IVA 21% deducible.​
 
 ### Conclusiones
