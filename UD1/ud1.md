@@ -1,5 +1,12 @@
 [Volver al índice general](../README.md)
 
+<details>
+<summary># UD1 – Análisis del entorno y detección de necesidades tecnológicas </summary>
+<p>
+<img src="i.imgur.com" alt="Texto animado">
+</p>
+</details>
+
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
 ## Índice de apartados
