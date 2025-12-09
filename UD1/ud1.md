@@ -133,7 +133,7 @@ Esta fase optimiza los recursos y permite el trabajo híbrido seguro.
 
 ### Conclusiones
 
-La empresa ZuinqStudio necesita urgentemente un proyecto ASIR para blindar su Propiedad Intelectual (PI) debido a la falta de backups y la inseguridad de su red. La propuesta consiste en implementar un DRP Híbrido, Firewall UTM, Active Directory y VDI. Este proyecto es viable y estratégico, justificándose como un seguro contra el riesgo catastrófico (pérdida de PI) y una herramienta para ganar competitividad. La implementación cumplirá con el RGPD y las normativas de licencias, asegurando la sostenibilidad y el crecimiento de la pyme tech en Sevilla.
+La empresa ZuinqStudio necesita urgentemente un proyecto que sriva para blindar su Propiedad Intelectual (PI) debido a la falta de backups y la inseguridad de su red. La propuesta consiste en implementar un DRP Híbrido, Firewall UTM, Active Directory y VDI. Este proyecto es viable y estratégico, justificándose como un seguro contra el riesgo catastrófico (pérdida de PI) y una herramienta para ganar competitividad. La implementación cumplirá con el RGPD y las normativas de licencias, asegurando la sostenibilidad y el crecimiento de la pyme tech en Sevilla.
 
 ## Enlaces a recursos de la unidad
 
