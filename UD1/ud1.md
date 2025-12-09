@@ -65,7 +65,7 @@ La respuesta es rotundamente Sí. La inversión se justifica simplemente con la 
 
 El proyecto de modernización de ZuinqStudio debe asegurar la legalidad en tres áreas fundamentales:
 
-- Protección de Datos (RGPD)
+### Protección de Datos (RGPD)
 
 Es la normativa más crítica, dada la gestión de datos de clientes y empleados.
 
@@ -73,7 +73,7 @@ Es la normativa más crítica, dada la gestión de datos de clientes y empleados
 
 - Trazabilidad: La Gestión Centralizada de Identidades (AD) es necesaria para controlar el acceso a los datos, cumplir con los derechos de los interesados (supresión, acceso, etc.) y facilitar la notificación de brechas a la AEPD.
 
-- Propiedad Intelectual y Licencias
+### Propiedad Intelectual y Licencias
 
 Es vital para la supervivencia de la empresa como desarrolladora de software.
 
@@ -81,7 +81,7 @@ Es vital para la supervivencia de la empresa como desarrolladora de software.
 
 - Protección del Activo: La implementación del DRP Híbrido es una medida esencial para proteger la Propiedad Intelectual de la empresa (su código fuente).
 
-- Prevención de Riesgos Laborales (PRL)
+### Prevención de Riesgos Laborales (PRL)
 
 Se aplica a las nuevas infraestructuras y al entorno de trabajo digital.
 
