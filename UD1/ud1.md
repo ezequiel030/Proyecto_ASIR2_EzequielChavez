@@ -31,9 +31,6 @@ Como empresa sevillana de desarrollo de software en un sector de alta expansión
 | Continuidad de Negocio | Ausencia de un Plan de Recuperación ante Desastres (DRP) y una política de copias de seguridad estandarizada que cubra los repositorios de código fuente y las bases de datos de clientes. | Pérdida de Propiedad Intelectual (IP) y bases de datos. Interrupción prolongada del servicio al cliente ante un fallo de hardware o un ciberataque.       |
 | Seguridad de Acceso    | Falta de centralización en la gestión de usuarios y permisos (Identidades) para la red local, servidores y plataformas de desarrollo.                               | Riesgo de acceso no autorizado y gestión ineficiente de las credenciales, especialmente tras la rotación de desarrolladores.                              |
 | Infraestructura de Red | Red local (LAN/Wi-Fi) no segmentada y desprotección en el perímetro ante ataques externos e internos.                                                               | El malware o un acceso no autorizado puede moverse lateralmente, comprometiendo los servidores de desarrollo y producción.                                |
-
-![]()
-
 Entorno de Desarrollo | Dependencia de estaciones de trabajo físicas con poca flexibilidad y alto consumo energético para entornos de trabajo remoto o híbrido. | Altos costes iniciales de hardware y lentitud para escalar recursos (CPU, RAM, almacenamiento) según las necesidades de los proyectos. |
 
 ## **4. Oportunidades y viabilidad del proyecto**
