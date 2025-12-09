@@ -15,12 +15,9 @@ Además, Sevilla ha superado recientemente a Málaga en número de empresas tecn
 ![Gráfica](img/grafico_Tic.png)
 
 ## **2. Selección de la empresa o contexto de trabajo**
-
-<p align="center">  
   
 ![ZuinqStudio](img/zuinqStudio.png)  
 
-</p>
 
 En Sevilla hay una empresa que se centra en ejecutar proyectos de digitalización de gimnasios, esta se llama ZuinqStudio, es una empresa tecnológica con sede en Sevilla especializada en software para centros deportivos.
 
