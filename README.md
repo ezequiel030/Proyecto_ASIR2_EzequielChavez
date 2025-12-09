@@ -15,8 +15,6 @@
 
 ## Título del proyecto: FitTech Sport Hidalgo
 
-![FitTech](UD1/img/Gemini_Generated_Image_uetxueuetxueuetx.png)
-
 ## Índice del proyecto
 
 ### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/ud1.md)
