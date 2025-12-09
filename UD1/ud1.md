@@ -62,66 +62,75 @@ La respuesta es rotundamente Sí. La inversión se justifica simplemente con la 
 
 El proyecto de modernización de ZuinqStudio debe asegurar la legalidad en tres áreas fundamentales:
 
-1. Protección de Datos (RGPD)
+- Protección de Datos (RGPD)
+
 Es la normativa más crítica, dada la gestión de datos de clientes y empleados.
 
-Seguridad Obligatoria: El proyecto justifica e implementa medidas técnicas de seguridad (DRP Híbrido, Firewall) obligatorias por el RGPD para garantizar la confidencialidad, integridad y disponibilidad de los datos.
+- Seguridad Obligatoria: El proyecto justifica e implementa medidas técnicas de seguridad (DRP Híbrido, Firewall) obligatorias por el RGPD para garantizar la confidencialidad, integridad y disponibilidad de los datos.
 
-Trazabilidad: La Gestión Centralizada de Identidades (AD) es necesaria para controlar el acceso a los datos, cumplir con los derechos de los interesados (supresión, acceso, etc.) y facilitar la notificación de brechas a la AEPD.
+- Trazabilidad: La Gestión Centralizada de Identidades (AD) es necesaria para controlar el acceso a los datos, cumplir con los derechos de los interesados (supresión, acceso, etc.) y facilitar la notificación de brechas a la AEPD.
 
-2. Propiedad Intelectual y Licencias
+- Propiedad Intelectual y Licencias
+
 Es vital para la supervivencia de la empresa como desarrolladora de software.
 
-Legalidad del Software: Se debe garantizar la adquisición y actualización de todas las licencias de uso (Sistemas Operativos, Hipervisor VDI) para evitar sanciones.
+- Legalidad del Software: Se debe garantizar la adquisición y actualización de todas las licencias de uso (Sistemas Operativos, Hipervisor VDI) para evitar sanciones.
 
-Protección del Activo: La implementación del DRP Híbrido es una medida esencial para proteger la Propiedad Intelectual de la empresa (su código fuente).
+- Protección del Activo: La implementación del DRP Híbrido es una medida esencial para proteger la Propiedad Intelectual de la empresa (su código fuente).
 
-3. Prevención de Riesgos Laborales (PRL)
+- Prevención de Riesgos Laborales (PRL)
+
 Se aplica a las nuevas infraestructuras y al entorno de trabajo digital.
 
-Instalaciones Seguras: El montaje de hardware (servidores, firewall) debe cumplir con las normas de seguridad eléctrica y de instalación.
+- Instalaciones Seguras: El montaje de hardware (servidores, firewall) debe cumplir con las normas de seguridad eléctrica y de instalación.
 
-Ergonomía: Se debe asegurar que las estaciones de trabajo VDI cumplan con las directrices de ergonomía y seguridad para los empleados que trabajen con pantallas de visualización de datos.
+- Ergonomía: Se debe asegurar que las estaciones de trabajo VDI cumplan con las directrices de ergonomía y seguridad para los empleados que trabajen con pantallas de visualización de datos.
 
 ## **6. Guion inicial del proyecto**
 
-### Nombre del proyecto
+Para tener una mayor idea de como desarrollariamos la idea del proyecto, la presentaremos de una forma esquematizada y por fases, así entederemos mejor la solución a cada apartado.
 
-"FitTech Hidalgo"
+FASE 1: Aseguramiento de Datos y Continuidad (DRP)
+Esta fase inicial aborda el riesgo más crítico: la pérdida de Propiedad Intelectual.
 
-### Datos de la empresa
+- Auditoría de Datos: Identificar y clasificar todos los datos críticos (repositorios de código, bases de datos de clientes, archivos de administración).
 
-Fitness Sport Hidalgo: Gimnasio tradicional en Coria del Río (Sevilla). Estructura: Dirección (Juan Hidalgo), 2 administrativos, 8 monitores, operaciones y marketing. Gestión manual (Excel, llaves físicas).
+- Diseño de la Política 3-2-1: Definir el software de backup, la retención de copias y la ubicación del almacenamiento híbrido (off-site en la nube).
 
-### Análisis del sector
+- Configuración y Pruebas del DRP: Implementar la automatización de las copias de seguridad y realizar simulacros de recuperación para validar la funcionalidad del Plan de Recuperación ante Desastres (DRP).
 
-Sevilla lidera crecimiento TIC Andalucía con 250+ empresas tech y Sevilla TechPark como referente nacional. Demanda soluciones digitales para pymes fitness.
+FASE 2: Ciberseguridad y Red (Perímetro y Segmentación)
+Esta fase construye la base de seguridad para aislar los entornos críticos.
 
-### Necesidades detectadas
+- Adquisición e Instalación del Firewall: Adquirir un dispositivo Firewall UTM con funciones de prevención de intrusiones y antivirus perimetral.
 
-Sin backups, WiFi inseguro sin segmentación, 2 PCs obsoletos, reservas manuales, accesos por llaves físicas.
+- Diseño de la Red Segmentada (VLANs): Planificar las VLANs para separar lógicamente la red de Desarrollo, Administración y el Wi-Fi de Invitados, e implementar el switching L3 necesario.
 
-### Proyecto propuesto
+- Configuración de Políticas del Firewall: Definir las reglas de acceso y tráfico entre las VLANs, restringiendo el tráfico no esencial hacia los servidores de desarrollo.
 
-Servidor dedicado (dominio+backups híbridos), red LAN/WiFi segmentada+firewall, plataforma cloud reservas, control acceso IDQR smartphones.
+FASE 3: Centralización de Servicios (Identidades y Acceso)
+Esta fase dota a ZuinqStudio de la gestión de identidades corporativas.
 
-## Recursos y viabilidad
+- Instalación del Servidor Físico/Virtual: Desplegar la máquina host (física o virtualizada) que alojará el Servidor de Dominio.
 
-2.450€ inicial (servidor 1.500€, PCs 600€, switch 150€, QR 200€). Software open source GRATUITO. Cloud 35€/mes. ROI 5 meses. ASIR 100% competente.
+- Implementación de Active Directory (AD): Instalar y configurar el Servidor de Dominio (AD o LDAP), creando la estructura de Unidades Organizativas (OU).
 
-### Obligaciones legales
+- Migración y Políticas de Grupo: Integrar los equipos existentes y definir las Políticas de Grupo (GPO) para estandarizar la seguridad y los logins en la red.
 
-✅ RGPD/LOPDGDD: Datos socios protegidos.
+FASE 4: Flexibilización del Entorno de Trabajo (VDI)
+Esta fase optimiza los recursos y permite el trabajo híbrido seguro.
 
-✅ PRL: Formación personal ciberseguridad.
+- Diseño e Instalación del Hipervisor: Configurar el software de virtualización para alojar la plataforma VDI.
 
-✅ Licencias: Open source legal.
+- Creación de la Imagen Base: Desarrollar una imagen maestra del escritorio del desarrollador (con IDEs y herramientas) que será replicada.
 
-✅ Fiscal: IVA 21% deducible.​
+- Despliegue de VDI: Crear los escritorios virtuales para el personal de ZuinqStudio y configurar el acceso seguro (VPN o broker) para el trabajo híbrido.
+
+- Formación y Prueba Piloto: Capacitar al personal en el uso del nuevo entorno VDI y realizar una prueba piloto antes del despliegue total.
 
 ### Conclusiones
 
-FitTech Hidalgo posiciona el gimnasio como referente digital en Sevilla. Proyecto viable, escalable, rentable y 100% legal.
+La empresa ZuinqStudio necesita urgentemente un proyecto ASIR para blindar su Propiedad Intelectual (PI) debido a la falta de backups y la inseguridad de su red. La propuesta consiste en implementar un DRP Híbrido, Firewall UTM, Active Directory y VDI. Este proyecto es viable y estratégico, justificándose como un seguro contra el riesgo catastrófico (pérdida de PI) y una herramienta para ganar competitividad. La implementación cumplirá con el RGPD y las normativas de licencias, asegurando la sostenibilidad y el crecimiento de la pyme tech en Sevilla.
 
 ## Enlaces a recursos de la unidad
 
