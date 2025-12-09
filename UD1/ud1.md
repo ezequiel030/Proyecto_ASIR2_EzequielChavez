@@ -24,17 +24,40 @@ La razón de la selección de ZuniqStudio, es debido a la especialización fitne
 
 ## **3. Identificación de necesidades tecnológicas**
 
-Fitness Sport Hidalgo cuenta con una infraestructura obsoleta que frena su crecimiento, no cuenta con copias de seguridad automatizadas, red sin segmentación, cuenta solo con dos PC que están desactualizados, procesos manuales de inscripción y pagos, no cuentan con seguridad de acceso al gimnasio.
+Como empresa sevillana de desarrollo de software en un sector de alta expansión, ZuinqStudio necesita una infraestructura tecnológica que garantice la seguridad, la eficiencia y la continuidad de su propiedad intelectual. Las siguientes carencias representan riesgos críticos para el negocio:
 
-Este proyecto buscará transformar estas carencias mediante servidor de dominio centralizado para la gestión de usuarios, sistema de backups automatizados con almacenamiento híbrido, una red LAN/WiFi segmentada con firewall perimetral, una plataforma en la nube para la gestión de reservas y un control de acceso digital IDQR (control de acceso por código QR).
+| Área                   | Carencia y Riesgo Asociado                                                                                                                                          | Impacto en el Negocio                                                                                                                                    |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Continuidad de Negocio | Ausencia de un Plan de Recuperación ante Desastres (DRP) y una política de copias de seguridad estandarizada que cubra los repositorios de código fuente y las bases de datos de clientes. | Pérdida de Propiedad Intelectual (IP) y bases de datos. Interrupción prolongada del servicio al cliente ante un fallo de hardware o un ciberataque.       |
+| Seguridad de Acceso    | Falta de centralización en la gestión de usuarios y permisos (Identidades) para la red local, servidores y plataformas de desarrollo.                               | Riesgo de acceso no autorizado y gestión ineficiente de las credenciales, especialmente tras la rotación de desarrolladores.                              |
+| Infraestructura de Red | Red local (LAN/Wi-Fi) no segmentada y desprotección en el perímetro ante ataques externos e internos.                                                               | El malware o un acceso no autorizado puede moverse lateralmente, comprometiendo los servidores de desarrollo y producción.                                |
+
+![]()
+
+Entorno de Desarrollo | Dependencia de estaciones de trabajo físicas con poca flexibilidad y alto consumo energético para entornos de trabajo remoto o híbrido. | Altos costes iniciales de hardware y lentitud para escalar recursos (CPU, RAM, almacenamiento) según las necesidades de los proyectos. |
 
 ## **4. Oportunidades y viabilidad del proyecto**
 
-La transformación digital del centro deportivo Fitness Sport Hidalgo es una gran oportunidad para continuar desarrollandose como empresa, pasar de ser un gimnasio tradicional, a centro fitness inteligente, con soluciones como un servidor dedicado para la gestión de usuarios centralizados, los backups, también poder tener la red empresarial LAN/WiFi segementada, la plataforma en la nube para las reservas y accesos por código QR por movil, eliminando las carencias actuales.
+El proyecto ASIR no es un simple gasto en tecnología; es una inversión estratégica que capitaliza el dinamismo del sector tech de Sevilla, transformando vulnerabilidades en ventajas competitivas.
 
-El impacto que podría tener es de más de un 45% de eficiencia, una seguridad muchisimo más alta, gracias a las copias de suguridad como también por la red segmentada, la gestión de los usuarios centralizada, así como también generando una experiencia más premium al usuario, con la implementación de las reservas online o el ingreso a las instalaciones por medio del QR, reduciendo el error humano en los procesos de hasta un 60%, generando un interes mayor y un posible aumento de más del 30% en socios.
+La Gran Oportunidad: De Pyme a Competidor de Alto Nivel
+El proyecto ofrece cuatro beneficios transformadores inmediatos:
 
-La inversión estimada en pyme es de unos 2.450€ inicial, esto incluiria el servidor dedicado, dos PCs, un switch, aparte de todo lo anterior mencionado, podriamos decir que 35€/mes en la nube, todo controlado con Software open source, como Ubuntu Sever y pfSence.
+Seguro de Vida Digital (Garantía DRP): Implementar un Plan DRP Híbrido es el seguro de vida de ZuinqStudio. Asegurar la propiedad intelectual (código fuente) significa blindar el activo más valioso de la empresa, garantizando la continuidad del negocio ante cualquier desastre.
+
+Atracción de Talento y Flexibilidad (VDI): La Infraestructura de Escritorio Virtual (VDI) permite implementar un modelo de trabajo híbrido y seguro de forma inmediata. Esto posiciona a ZuinqStudio como un empleador atractivo capaz de competir por el mejor talento de Sevilla sin estar limitado por las fronteras físicas.
+
+Blindaje de Confianza (Firewall y AD): La segmentación de red y la gestión centralizada de identidades (AD) elevan drásticamente la ciberseguridad. Esto permite a ZuinqStudio demostrar un alto estándar de seguridad a clientes grandes, desbloqueando nuevos contratos que exigen rigurosas auditorías.
+
+¿Es Viable para una Pyme Sevillana? El Análisis Definitivo
+La respuesta es rotundamente Sí. La inversión se justifica bajo el prisma de la eficiencia
+
+| Factor                | Justificación de Viabilidad                                                                                                                                              | Impacto en ZuinqStudio                                                                                               |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Costo vs. Riesgo      | El costo de la inacción (perder el código fuente) supera con creces el costo del proyecto. La inversión se amortiza como una póliza de riesgo catastrófico.               | Protección del capital (IP) y garantía de la supervivencia del negocio.                                               |
+| Optimización de Recursos | La inversión inicial en hardware (servidor, firewall) se mitiga al reducir el Costo Total de Propiedad (TCO). El VDI permite comprar thin clients más baratos y reutilizar recursos. | Inversión inteligente que reduce gastos operativos a medio y largo plazo.                                             |
+| Entorno Local         | El crecimiento del sector tech en Sevilla (Punto 1) garantiza la disponibilidad de proveedores y talento ASIR para la implementación y el mantenimiento del proyecto.      | Soporte técnico local y especializado para garantizar el éxito del despliegue.                                        |
+
 
 ## **5. Obligaciones legales y normativas**
 
