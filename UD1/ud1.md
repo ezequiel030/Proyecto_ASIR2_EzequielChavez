@@ -16,11 +16,11 @@ Además, Sevilla ha superado recientemente a Málaga en número de empresas tecn
 
 ## **2. Selección de la empresa o contexto de trabajo**
 
-Fitness Sport Hidalgo es un gimnasio tradicional en Coria del Río de la provincia de Sevilla, es dirigido por Juan Hidalgo, el cual es nutricionista con más de 30 años de experiencia en el fitness.​
+En Sevilla hay una empresa que se centra en ejecutar proyectos de digitalización de gimnasios, esta se llama ZuinqStudio, es una empresa tecnológica con sede en Sevilla especializada en software para centros deportivos.
 
-Su estructura es simple y jerárquica, el señor Juan Hidalgo es quien se emcarga de la dirección general, dos administrativos gestionan inscripciones y cobros en Excel desde la recepción, cuenta con ocho monitores que dirigen los entrenamientos, las clases de zumba, spinning, y las pesas, el señor Juan Hidalgo supervisa las lavores de mantenimiento y de abrir el local, y un responsable de marketing que impulsa la captación vía redes sociales.​
+ZuinqStudio lleva a cabo la gestión de IsMyGym, llevando las reservas online a través de la solución cloud, control RFID, aforo en tiempo real y pagos automáticos, utilizada por más de 100 centros deportivos andaluces.
 
-La informática actual es mínima, cuentan con dos PC Windows 10 obsoleto, WiFi básico y cero backups o red segura, camaras de seguridad, pero poco más. Esto nos lleva al siguiente punto.
+La razón de la selección de ZuniqStudio, es debido a la especialización fitness probada, sede en Sevilla para soporte local, y porque trabajan con cloud AWS, redes LAN/WIFI, como también backups H24.
 
 ## **3. Identificación de necesidades tecnológicas**
 
