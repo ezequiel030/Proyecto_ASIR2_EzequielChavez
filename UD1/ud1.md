@@ -58,7 +58,7 @@ La respuesta es rotundamente Sí. La inversión se justifica simplemente con la 
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Costo vs. Riesgo      | El costo de la inacción (perder el código fuente) supera con creces el costo del proyecto. La inversión se amortiza como una póliza de riesgo catastrófico.               | Protección del capital (IP) y garantía de la supervivencia del negocio.                                               |
 | Optimización de Recursos | La inversión inicial en hardware (servidor, firewall) se mitiga al reducir el Costo Total de Propiedad (TCO). El VDI permite comprar thin clients más baratos y reutilizar recursos. | Inversión inteligente que reduce gastos operativos a medio y largo plazo.                                             |
-| Entorno Local         | El crecimiento del sector tech en Sevilla (Punto 1) garantiza la disponibilidad de proveedores y talento ASIR para la implementación y el mantenimiento del proyecto.      | Soporte técnico local y especializado para garantizar el éxito del despliegue.                                        |
+| Entorno Local         | El crecimiento del sector tech en Sevilla (Punto 1) garantiza la disponibilidad de proveedores y talento de los administradores para la implementación y el mantenimiento del proyecto.      | Soporte técnico local y especializado para garantizar el éxito del despliegue.                                        |
 
 
 ## **5. Obligaciones legales y normativas**
