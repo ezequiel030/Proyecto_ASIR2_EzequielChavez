@@ -18,7 +18,7 @@ Además, Sevilla ha superado recientemente a Málaga en número de empresas tecn
 
 <p align="center">  
   
-![ZuinqStudio](img/https://zuinqStudio.peng)  
+![ZuinqStudio](img/zuinqStudio.png)  
 
 </p>
 
