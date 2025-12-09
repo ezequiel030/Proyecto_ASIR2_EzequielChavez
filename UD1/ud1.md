@@ -61,21 +61,28 @@ La respuesta es rotundamente Sí. La inversión se justifica bajo el prisma de l
 
 ## **5. Obligaciones legales y normativas**
 
-#### RGPD / LOPDGDD
+El proyecto de modernización de ZuinqStudio debe asegurar la legalidad en tres áreas fundamentales:
 
-Protección datos socios (DNI, salud, pagos): registro tratamientos, consentimiento explícito, encriptación, backups seguros, notificación brechas AEPD (72h).​
+1. Protección de Datos (RGPD)
+Es la normativa más crítica, dada la gestión de datos de clientes y empleados.
 
-#### Prevención Riesgos Laborales (PRL)
+Seguridad Obligatoria: El proyecto justifica e implementa medidas técnicas de seguridad (DRP Híbrido, Firewall) obligatorias por el RGPD para garantizar la confidencialidad, integridad y disponibilidad de los datos.
 
-Formación obligatoria personal: uso seguro sistemas, ergonomía equipos, protocolos ciberseguridad.
+Trazabilidad: La Gestión Centralizada de Identidades (AD) es necesaria para controlar el acceso a los datos, cumplir con los derechos de los interesados (supresión, acceso, etc.) y facilitar la notificación de brechas a la AEPD.
 
-#### Licencias software
+2. Propiedad Intelectual y Licencias
+Es vital para la supervivencia de la empresa como desarrolladora de software.
 
-100% open source (Ubuntu Server, pfSense): cero costes licencias, cumplimiento legal total.
+Legalidad del Software: Se debe garantizar la adquisición y actualización de todas las licencias de uso (Sistemas Operativos, Hipervisor VDI) para evitar sanciones.
 
-#### Obligaciones fiscales
+Protección del Activo: La implementación del DRP Híbrido es una medida esencial para proteger la Propiedad Intelectual de la empresa (su código fuente).
 
-Facturación hardware/software (IVA 21%), deducciones inversiones informáticas Agencia Tributaria.
+3. Prevención de Riesgos Laborales (PRL)
+Se aplica a las nuevas infraestructuras y al entorno de trabajo digital.
+
+Instalaciones Seguras: El montaje de hardware (servidores, firewall) debe cumplir con las normas de seguridad eléctrica y de instalación.
+
+Ergonomía: Se debe asegurar que las estaciones de trabajo VDI cumplan con las directrices de ergonomía y seguridad para los empleados que trabajen con pantallas de visualización de datos.
 
 ## **6. Guion inicial del proyecto**
 
