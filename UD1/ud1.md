@@ -136,6 +136,15 @@ Esta fase optimiza los recursos y permite el trabajo híbrido seguro.
 
 - Formación y Prueba Piloto: Capacitar al personal en el uso del nuevo entorno VDI y realizar una prueba piloto antes del despliegue total.
 
+| Concepto | Coste Mínimo Optimizado | Coste Máximo Optimizado |
+| FASE 1: DRP | 750€ | 1.800€ |
+| FASE 2: Ciberseguridad | 800€ | 1.800€ |
+| FASE 3: Identidades (Hardware Compartido) | 1.800€ | 3.500€ |
+| FASE 4: VDI | 2.500€ | 5.000€ |
+| Subtotal (Hardware y Licencias Mínimas) | 5.850€ | 12.100€ |
+| Coste de Integración / Mano de Obra (30% Subtotal) | 1.755€ | 3.630€ |
+| TOTAL GENERAL ESTIMADO OPTIMIZADO | 7.605€ | 15.730€ |
+
 ### Conclusiones
 
 La empresa ZuinqStudio necesita urgentemente un proyecto que sirva para blindar su Propiedad Intelectual (PI) debido a la falta de backups y la inseguridad de su red. La propuesta consiste en implementar un DRP Híbrido, Firewall UTM, Active Directory y VDI. Este proyecto es viable y estratégico, justificándose como un seguro contra el riesgo catastrófico (pérdida de PI) y una herramienta para ganar competitividad. La implementación cumplirá con el RGPD y las normativas de licencias, asegurando la sostenibilidad y el crecimiento de la pyme tech en Sevilla.
