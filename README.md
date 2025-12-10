@@ -13,7 +13,9 @@
 
 ## Nombre del alumno: Ezequiel Enrique Chávez Ascencio
 
-## Título del proyecto: De Pyme a Competidor de Alto Nivel. Blindaje de la Propiedad Intelectual y Habilitación del Trabajo Híbrido en ZuinqStudio mediante Infraestructura Segura
+## Título del proyecto: 
+
+De Pyme a Competidor de Alto Nivel. Blindaje de la Propiedad Intelectual y Habilitación del Trabajo Híbrido en ZuinqStudio mediante Infraestructura Segura
 
 ## Índice del proyecto
 
