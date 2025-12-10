@@ -12,6 +12,11 @@ Sevilla TechPark concentra 574 empresas, cuenta con más de 31.600 trabajadores 
 
 Además, Sevilla ha superado recientemente a Málaga en número de empresas tecnológicas, alcanzando en torno a las 250 compañías tech, muchas de ellas startups y scaleups, lo que confirma la consolidación de un ecosistema innovador donde se demandan servicios de infraestructuras IT, cloud, redes y ciberseguridad.
 
+¿Por qué Sevilla TechPark y no otra empresa del sector en la Cartuja?
+
+La elección del STP es una decisión estratégica e inmobiliaria que busca los beneficios del entorno colectivo: prestigio, infraestructura garantizada, apoyo institucional a la I+D+i y el acceso al talento que se congrega allí. Las empresas como Ayesa son un indicador de que esa elección es la correcta, ya que ellas mismas eligieron el STP para cosechar esos mismos beneficios.
+
+
 ![Gráfica](img/grafico_Tic.png)
 
 ## **2. Selección de la empresa o contexto de trabajo**
