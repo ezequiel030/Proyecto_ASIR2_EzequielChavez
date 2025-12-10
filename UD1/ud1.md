@@ -158,7 +158,8 @@ La empresa ZuinqStudio necesita urgentemente un proyecto que sirva para blindar 
 
   ## Bibliografía / Webgrafía 
 - Autor1, Título del libro o artículo, Editorial/Año.
-- Sitio web oficial: [Enlace](https://www.ejemplo.com)
+- Sitio web oficial ZuinqStudio: [Enlace](https://www.zuinqstudio.com/inicio/index.php)
+- - Sitio web oficial Sevilla TechPark: [Enlace](https://sevillatechpark.es/)
 - Sitios web del análisis del sector tecnológico:
   
   1.[El economista](https://empresite.eleconomista.es/Actividad/EMPRESAS-TECNOLOGICAS/provincia/SEVILLA/)
