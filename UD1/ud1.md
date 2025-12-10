@@ -136,14 +136,16 @@ Esta fase optimiza los recursos y permite el trabajo híbrido seguro.
 
 - Formación y Prueba Piloto: Capacitar al personal en el uso del nuevo entorno VDI y realizar una prueba piloto antes del despliegue total.
 
-| Concepto | Coste Mínimo Optimizado | Coste Máximo Optimizado |
-| FASE 1: DRP | 750€ | 1.800€ |
-| FASE 2: Ciberseguridad | 800€ | 1.800€ |
-| FASE 3: Identidades (Hardware Compartido) | 1.800€ | 3.500€ |
-| FASE 4: VDI | 2.500€ | 5.000€ |
-| Subtotal (Hardware y Licencias Mínimas) | 5.850€ | 12.100€ |
-| Coste de Integración / Mano de Obra (30% Subtotal) | 1.755€ | 3.630€ |
-| TOTAL GENERAL ESTIMADO OPTIMIZADO | 7.605€ | 15.730€ |
+| **FASE**                                              | **Coste (EUR)** | **Coste (USD)** |
+|-------------------------------------------------------|-----------------|-----------------|
+| **FASE 1: DRP**                                       | €750            | $1.800          |
+| **FASE 2: Ciberseguridad**                            | €800            | $1.800          |
+| **FASE 3: Identidades (Hardware Compartido)**         | €1.800          | $3.500          |
+| **FASE 4: VDI**                                       | €2.500          | $5.000          |
+| **Subtotal (Hardware y Licencias Mínimas)**           | €5.850          | $12.100         |
+| **Coste de Integración / Mano de Obra (30% Subtotal)**| €1.755          | $3.630          |
+| **TOTAL GENERAL ESTIMADO OPTIMIZADO**                 | €7.605          | $15.730         |
+
 
 ### Conclusiones
 
